@@ -1,16 +1,12 @@
-### Hi there 👋
+# 👋 Hello, I'm notsmith
 
-<!--
-**notsmith/notsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😅 17 y.o. student
+- 🎉 Mainly programming in **Python**, **C#**, **PHP** a
+- 🪐 Fullstack **Discord bot developer** and administrator
+- 🌱 Coming up with more projects than I can create.
+- 🔭 I’m currently working on **Xynos** Discord bot.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 Get in touch:
+- Discord: **notsmith#8255**
+- Email: **not.agent.smith.matrix@gmail.com**
+- Website: **[Comming soon!](https://notsmith.repl.co)**
