@@ -8,5 +8,4 @@
 
 ### 💬 Get in touch:
 - Discord: **notsmith#8255**.
-- Email: **not.agent.smith.matrix@gmail.com**.
 - Website: **[Comming soon!](https://notsmith.repl.co)**.
