@@ -7,5 +7,5 @@
 - 🔭 I’m currently working on **Xynos** Discord bot.
 
 ### 💬 Get in touch:
-- Discord: **notsmith**.
+- Discord: **notsmith**
 - Website: **[Comming soon!](https://notsmith.repl.co)**.
