@@ -4,13 +4,13 @@
 Website: [notsmith.dev](https://notsmith.dev)   
 Discord: [notsmith](https://notsmith.dev)
 
-## About Me
+**About Me**
 
 > Software engineer with a product mindset.  
 > 19 y.o. student focused on designing scalable, purposeful systems with modern web technologies.  
 > Strong bias for action, long-term thinking, and clean TypeScript architecture.  
 
-## Tech Stack & Ecosystem
+**Tech Stack & Ecosystem**
 
 ```yaml
 // Languages
@@ -29,7 +29,7 @@ Git · Vercel · Docker · VS Code · pnpm · tRPC · Zustand
 Google Cloud · Firebase · Vercel · GitHub Actions
 ```
 
-## Philosophy
+**Philosophy**
 
 ```yaml
 I build like an engineer, not an artist.
