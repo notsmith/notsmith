@@ -1,4 +1,4 @@
-# Arnošt Hort  
+# notsmith
 ### aka `notsmith`
 
 Website: [notsmith.dev](https://notsmith.dev)   
